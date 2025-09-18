@@ -1,10 +1,9 @@
-# Diwali-sales
-🪔 Diwali Sales Analysis
-📌 Project Overview
+# Diwali Sales Analysis
+# Project Overview
 
 This project analyzes Diwali sales data to uncover customer purchasing behavior and business insights. The goal is to help businesses identify target customers and improve sales strategies during festive seasons.
 
-🛠️ Tools & Libraries
+# Tools & Libraries
 
 Python
 
@@ -16,7 +15,7 @@ Matplotlib
 
 Seaborn
 
-🔍 Key Steps
+# Key Steps
 
 Data cleaning and preprocessing
 
@@ -26,7 +25,7 @@ Visualization of customer demographics and spending patterns
 
 Identification of top-performing product categories and customer segments
 
-📊 Key Insights
+# Key Insights
 
 Married women aged 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka were the top buyers.
 
@@ -34,6 +33,6 @@ Customers working in IT, Healthcare, and Aviation sectors spent the most.
 
 The most purchased categories were Clothing, Food, and Electronics.
 
-✅ Conclusion
+# Conclusion
 
 The analysis provides valuable insights into customer demographics and spending behavior, helping businesses design better marketing campaigns and increase festive season revenue.
